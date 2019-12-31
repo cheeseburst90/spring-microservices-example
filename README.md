@@ -1,4 +1,4 @@
 # spring-microservices-example
-practice
+Dockerised the microservices
 
-running services to determine forex currency rates using spring-cloud, ribbon and h2 in memory DB.
+#RUN THE EUREKA SERVICE FIRST- spring-boot-microservice-eureka-naming-server- get the ip of that and use that in application.properties of other 2 services to get the instances UP in EUREKA
